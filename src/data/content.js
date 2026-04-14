@@ -11,7 +11,7 @@ export const profile = {
     'Seorang engineer yang memadukan dunia fisik dan digital — dari rangkaian elektronik hingga kode, dari desain 3D hingga sistem robotik yang cerdas.',
   location: 'Open to Remote & On-site',
   email: 'nozanwork@gmail.com',
-  linkedin: 'linkedin.com/in/naufal-auzan-ramadhan-312988378',
+  linkedin: 'linkedin.com/in/naufalauzanr',
   github: 'github.com/nojanzzz',
   availableForWork: true,
 };
