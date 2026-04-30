@@ -159,6 +159,16 @@ const projects = [
     image: require("../assets/projects/3dproductshowcase.jpg"),
     link: "https://3dproductshowcase.vercel.app/",
   },
+
+  {
+    title: "Premium Movie Discovery Platform",
+    category: ["Software", "Production-Ready"],
+    tag: "Web",
+    desc: "A premium movie discovery web platform designed to deliver an immersive and visually refined user experience. Built with a modern React-based architecture and powered by Appwrite as a backend service, the platform enables users to seamlessly explore thousands of movies through dynamic search, advanced filtering, and real-time personalized features.",
+    tech: ["React", "Tailwind CSS", "Framer Motion", "Appwrite"],
+    image: require("../assets/projects/cinetimez.png"),
+    link: "https://cinetimez.nojanz.workers.dev/",
+  },
 ];
 
 function PlaceholderImage({ title }) {
